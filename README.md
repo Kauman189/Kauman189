@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**Kauman189/Kauman189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You're making me carry the heavy stuff, aren't you?
 
-Here are some ideas to get you started:
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRUdtC_g-rUycI_K274nNt_Vt3JKb1FT_4w&s)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Passionate 20-year-old front-end web developer skilled in JavaScript, CSS, HTML, and PHP. With a keen eye for design and a dedication to crafting seamless user experiences, I strive to bring creativity and functionality to every project. Let's collaborate and build the web of tomorrow together!
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kauman189.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-arias-web-developer/)
+
